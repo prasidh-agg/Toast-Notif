@@ -36,7 +36,7 @@ button:active {
 img {
     position: fixed;
     margin: auto;
-    top: 250px;
+    top: 150px;
     animation-name: turban;
     animation-duration: 1.5s;
     animation-iteration-count: infinite;
